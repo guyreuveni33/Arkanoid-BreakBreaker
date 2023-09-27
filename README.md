@@ -47,11 +47,12 @@ The core of the game's architecture is built upon the principles of **polymorphi
 ### Running the Game
 
 You can run the game using one of the following methods:
+1.**Clone**: git clone https://github.com/guyreuveni33/Arkanoid-BreakBreaker.git
 
-1. **Apache Ant**: Download the source code to any folder, open the terminal in the main folder, and run the following commands:
+2. **Apache Ant**: Download the source code to any folder, open the terminal in the main folder, and run the following commands:
 ant // This command builds the game
 ant run -Dargs="{levels}" // Replace "{levels}" with the levels you want to load (e.g., "1 3 4").
 
-2. **Opening Project From IDE**: Download the source code and open the project from your integrated development environment (IDE). Rebuild the project.
+3. **Opening Project From IDE**: Download the source code and open the project from your integrated development environment (IDE). Rebuild the project.
 
 Get ready to embark on an exciting journey through the world of Arkanoid. Have fun and break those bricks!
